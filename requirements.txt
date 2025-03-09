@@ -1,0 +1,6 @@
+flask
+faiss-cpu
+sentence-transformers
+requests
+langchain
+langchain-huggingface
